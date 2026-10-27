@@ -1,0 +1,10 @@
+pandas
+scikit-learn
+nltk
+joblib
+mysql-connector-python
+Pillow
+pytesseract
+langdetect
+deep-translator
+argostranslate
